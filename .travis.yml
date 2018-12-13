@@ -1,0 +1,11 @@
+language: java
+
+addons:
+  sonarcloud:
+    organization: "marshalexception-github"
+    token: $SONAR_TOKEN
+
+script:
+  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
+  # - mvn clean install sonar:sonar -e -Dsonar.host.url="https://sonarqube.com" -Dsonar.organization="leonardkoll-github" -Dsonar.login=$SONAR_TOKEN
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
