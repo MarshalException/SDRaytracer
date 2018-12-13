@@ -1,3 +1,4 @@
+package src;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -6,12 +7,8 @@ import java.awt.Container;
 import java.awt.BorderLayout;
 import java.awt.Graphics;
 import java.awt.Dimension;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;
-import java.awt.event.MouseMotionListener;
-import java.awt.event.MouseMotionAdapter;
-import java.awt.event.MouseEvent;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.concurrent.Callable;
@@ -21,7 +18,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 /* Implementation of a very simple Raytracer
-   Stephan Diehl, Universität Trier, 2010-2016
+   Stephan Diehl, Universitï¿½t Trier, 2010-2016
 */
 
 
@@ -48,7 +45,7 @@ public class SDRaytracer extends JFrame
    Light lights[]= new Light[]{ mainLight
                                 ,new Light(new Vec3D(100,200,300), new RGB(0.5f,0,0.0f))
                                 ,new Light(new Vec3D(-100,200,300), new RGB(0.0f,0,0.5f))
-                                //,new Light(new Vec3D(-100,0,0), new RGB(0.0f,0.8f,0.0f))
+                                //,new src.Light(new src.Vec3D(-100,0,0), new src.RGB(0.0f,0.8f,0.0f))
                               };
 
    RGB [][] image= new RGB[width][height];
@@ -73,7 +70,7 @@ public static void  main(String argv[])
 void profileRenderImage(){
   long end, start, time;
 
-  renderImage(); // initialisiere Datenstrukturen, erster Lauf verfälscht sonst Messungen
+  renderImage(); // initialisiere Datenstrukturen, erster Lauf verfï¿½lscht sonst Messungen
   
   for(int procs=1; procs<6; procs++) {
 
@@ -255,7 +252,7 @@ RGB lighting(Ray ray, IPoint ip, int rec) {
    
      Cube.addCube(triangles, 0,35,0, 10,10,10,new RGB(0.3f,0,0),0.4f);       //rot, klein
      Cube.addCube(triangles, -70,-20,-20, 20,100,100,new RGB(0f,0,0.3f),.4f);
-     Cube.addCube(triangles, -30,30,40, 20,20,20,new RGB(0,0.4f,0),0.2f);        // grün, klein
+     Cube.addCube(triangles, -30,30,40, 20,20,20,new RGB(0,0.4f,0),0.2f);        // grï¿½n, klein
      Cube.addCube(triangles, 50,-20,-40, 10,80,100,new RGB(.5f,.5f,.5f), 0.2f);
      Cube.addCube(triangles, -70,-26,-40, 130,3,40,new RGB(.5f,.5f,.5f), 0.2f);
 
@@ -345,7 +342,7 @@ class Ray {
    void setDir(float dx, float dy, float dz) { dir=new Vec3D(dx, dy, dz); }
    void normalize() {  dir.normalize(); }
    
-   // see Möller&Haines, page 305
+   // see Mï¿½ller&Haines, page 305
    IPoint intersect(Triangle t)
     { float epsilon=IPoint.epsilon;
       Vec3D e1 = t.p2.minus(t.p1);
@@ -364,7 +361,7 @@ class Ray {
       float dist=f*e2.dot(q);
       if (dist<epsilon) return new IPoint(null,null,-1);
       Vec3D ip=t.p1.mult(1-u-v).add(t.p2.mult(u)).add(t.p3.mult(v));
-      //DEBUG.debug("Intersection point: "+ip.x+","+ip.y+","+ip.z);
+      //src.DEBUG.debug("Intersection point: "+ip.x+","+ip.y+","+ip.z);
       return new IPoint(t,ip,dist);
     }
 }
@@ -463,7 +460,7 @@ class Matrix {
                               val[1][0]*v.x+val[1][1]*v.y+val[1][2]*v.z+val[1][3]*v.w,
                               val[2][0]*v.x+val[2][1]*v.y+val[2][2]*v.z+val[2][3]*v.w,
                               val[3][0]*v.x+val[3][1]*v.y+val[3][2]*v.z+val[3][3]*v.w );
-      //return new Vec3D(temp.x/temp.w,temp.y/temp.w,temp.z/temp.w,1);
+      //return new src.Vec3D(temp.x/temp.w,temp.y/temp.w,temp.z/temp.w,1);
       temp.x=temp.x/temp.w; temp.y=temp.y/temp.w; temp.z=temp.z/temp.w; temp.w=1;
       return temp;
     }
