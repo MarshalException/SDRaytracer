@@ -54,16 +54,6 @@ public class SDRaytracer extends JFrame
    RGB background_color=new RGB(0.05f,0.05f,0.05f);
    RGB black=new RGB(0.0f,0.0f,0.0f);
    int y_angle_factor=4, x_angle_factor=-4;
-   
-public static void  main(String argv[])
-  { 
-  long start = System.currentTimeMillis();
-  SDRaytracer sdr=new SDRaytracer();
-  long end = System.currentTimeMillis();
-  long time = end - start;
-  System.out.println("time: " + time + " ms");
-  System.out.println("nrprocs="+sdr.nrOfProcessors);
-  }
 
 void profileRenderImage(){
   long end, start, time;
