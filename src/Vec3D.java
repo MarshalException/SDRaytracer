@@ -2,6 +2,16 @@ class Vec3D {
     float x, y, z, w=1;
     Vec3D(float xx, float yy, float zz) { x=xx; y=yy; z=zz; }
     Vec3D(float xx, float yy, float zz, float ww) { x=xx; y=yy; z=zz; w=ww; }
+
+    //Refactoring
+    RGB color;
+    Vec3D(float xx, float yy, float zz, RGB color) {
+        this.x = xx;
+        this.y = yy;
+        this.z = zz;
+        this.color = color;
+    }
+
     Vec3D add(Vec3D v)
     { return new Vec3D(x+v.x, y+v.y, z+v.z); }
     Vec3D minus(Vec3D v)
