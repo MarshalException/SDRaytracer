@@ -158,7 +158,7 @@ void renderImage(){
    tan_fovx = Math.tan(fovx);
    tan_fovy = Math.tan(fovy);
    for(int i=0;i<width;i++)
-   { futureList[i]=  (Future) eservice.submit(new RaytraceTask(this,i)); 
+   { futureList[i]=  (Future) eservice.submit(new RaytraceTask(this,i));
    }
    
     for(int i=0;i<width;i++)
@@ -167,7 +167,9 @@ void renderImage(){
           for(int j=0;j<height;j++)
             image[i][j]=col[j];
          }
-   catch (InterruptedException e) {}
+   catch (InterruptedException e) {
+           Thread.currentThread().interrupt();
+   }
    catch (ExecutionException e) {}
     }
    }
