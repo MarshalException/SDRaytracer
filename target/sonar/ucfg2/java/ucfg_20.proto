@@ -1,67 +1,0 @@
-
-Graytracer.RGB#addColors(Lraytracer/RGB;Lraytracer/RGB;F)Lraytracer/RGB;
-__unknown_file ("1*õ
-1?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (v
-t
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%0float"__id**
-
-c1raytracer.RGB"
-redv
-t
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ($
-%1float"__id**
-
-c2raytracer.RGB"
-redx
-v
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%2float"__id* *
-
-c1raytracer.RGB"
-greenx
-v
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%3float"__id* *
-
-c2raytracer.RGB"
-greenw
-u
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%4float"__id**
-
-c1raytracer.RGB"
-bluew
-u
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%5float"__id**
-
-c2raytracer.RGB"
-bluege
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
-%6raytracer.RGB"raytracer.RGB•
-’
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ($
-%7"raytracer.RGB#<init>(FFF)V*
-
-%6raytracer.RGB*
-""*
-""*
-"""X
-?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (%
-
-%6raytracer.RGB:
-c1raytracer.RGB:
-c2raytracer.RGB:
-""B
-raytracer.RGB

@@ -1,7 +1,0 @@
-organization=marshalexception-github
-projectKey=marshalexception_SDRaytracer
-serverUrl=https://sonarcloud.io
-serverVersion=7.5.0.20463
-dashboardUrl=https://sonarcloud.io/dashboard?id=marshalexception_SDRaytracer
-ceTaskId=AWfGQMwjoQGImSDSjoEH
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWfGQMwjoQGImSDSjoEH
