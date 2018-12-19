@@ -1,66 +1,0 @@
-
-Vec3D#minus(LVec3D;)LVec3D;
-__unknown_file ("1*ª
-17
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
-%0float"__id**
-Vec3D"
-xc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
-%1float"__id**
-
-
-vVec3D"
-x`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
-%2float"__id**
-Vec3D"
-yc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java  (#
-%3float"__id**
-
-
-vVec3D"
-y`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java% (&
-%4float"__id**
-Vec3D"
-zc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java' (*
-%5float"__id**
-
-
-vVec3D"
-zOM
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
-%6Vec3D"Vec3D|
-z
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (+
-%7"Vec3D#<init>(FFF)V*
-
-%6Vec3D*
-""*
-""*
-"""H
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (,
-
-%6Vec3D:
-
-vVec3DB	
-Vec3D

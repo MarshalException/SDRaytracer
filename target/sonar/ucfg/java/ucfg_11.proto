@@ -1,55 +1,0 @@
-
-!Matrix#createYRotation(F)LMatrix;
-__unknown_file ("""1*Æ
-18
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java9 9(v
-t
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java9 9($
-%0"java.lang.Math#cos(D)D*"
-java.lang.Math*
-""v
-t
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java90 9(?
-%1"java.lang.Math#sin(D)D*"
-java.lang.Math*
-""JH
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java9 9(D
-%2"$ArrayJH
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java: :(
-%3"$Arrayv
-t
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java; ;(%
-%4"java.lang.Math#sin(D)D*"
-java.lang.Math*
-""v
-t
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java;1 ;(@
-%5"java.lang.Math#cos(D)D*"
-java.lang.Math*
-""JH
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java; ;(E
-%6"$ArrayJH
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java< <(
-%7"$ArrayJH
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java8 8(
-%8"Matrixg
-e
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java8 <(
-%9"Matrix#<init>([[F)V*
-
-%8*
-"""B
-8
-.C:\Users\sim-t\git\SDRaytracer\src\Matrix.java8 <(
-
-%8

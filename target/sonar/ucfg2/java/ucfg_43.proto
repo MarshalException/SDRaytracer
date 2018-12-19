@@ -1,108 +1,0 @@
-
-Vec3D#cross(LVec3D;)LVec3D;
-__unknown_file ("1*…
-17
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (
-%0float"__id**
-Vec3D"
-yc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (
-%1float"__id**
-
-
-vVec3D"
-z`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java    (!
-%2float"__id**
-Vec3D"
-zc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java "  (%
-%3float"__id**
-
-
-vVec3D"
-y`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java '  ((
-%4float"__id**
-Vec3D"
-zc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java )  (,
-%5float"__id**
-
-
-vVec3D"
-x`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java -  (.
-%6float"__id**
-Vec3D"
-xc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java /  (2
-%7float"__id**
-
-
-vVec3D"
-z`
-^
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java 4  (5
-%8float"__id**
-Vec3D"
-xc
-a
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java 6  (9
-%9float"__id**
-
-
-vVec3D"
-ya
-_
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java :  (;
-%10float"__id**
-Vec3D"
-yd
-b
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java <  (?
-%11float"__id**
-
-
-vVec3D"
-xPN
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (
-%12Vec3D"Vec3D~
-|
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (@
-%13"Vec3D#<init>(FFF)V*
-
-%12Vec3D*
-""*
-""*
-"""I
-7
--C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java   (A
-
-%12Vec3D:
-
-vVec3DB	
-Vec3D

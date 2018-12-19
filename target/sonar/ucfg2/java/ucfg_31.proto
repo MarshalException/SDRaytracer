@@ -1,112 +1,0 @@
-
-!SDRaytracer#rayTrace(LRay;I)LRGB;
-__unknown_file ("5*†
-1?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java» »(p
-n
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java» »(	
-%9RGB"__id**
-SDRaytracer"
-black"N
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java» »(
-	
-%9RGB*˜
-2?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸ ¸(n
-l
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸ ¸(	
-%5RGB"__id**
-SDRaytracer"
-rgbx
-v
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸) ¸(6	
-%6RGB"__id*"* 
-SDRaytracer"
-ambient_colort
-r
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸8 ¸(>
-%7$Array"__id**
-SDRaytracer"
-lights¡ž
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸ ¸(D	
-%8RGB";RGB#lighting(LRay;LIPoint;ILRGB;[LVec3D;LSDRaytracer;)LRGB;*
-	
-%5RGB*
-
-
-rayRay*
-
-ipIPoint*
-""*
-	
-%6RGB*
-
-%7$Array*
-SDRaytracer22lighting(LRay;LIPoint;ILRGB;[LVec3D;LSDRaytracer;)"N
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¸ ¸(E
-	
-%8RGB*Ä
-3?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaµ µ(©¦
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaµ µ(
-%2IPoint"$SDRaytracer#hitObject(LRay;)LIPoint;*
-SDRaytracer*
-
-
-rayRay2hitObject(LRay;)g
-e
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaµ µ(
-ipIPoint"__id*
-
-%2IPointp
-n
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¶ ¶(
-%3float"__id**
-
-ipIPoint"
-disto
-m
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java¶ ¶(
-%4float"__id**
-IPoint"	
-epsilon*
-2
-1*†
-4?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java´ ´(p
-n
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java´ ´(	
-%1RGB"__id**
-SDRaytracer"
-black"N
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java´ ´( 
-	
-%1RGB*¿
-5?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java´ ´(
-q
-o
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.java´ ´(	
-%0int"__id**
-SDRaytracer"
-maxRec*
-3
-4:
-
-rayRay:
-""B
-SDRaytracer

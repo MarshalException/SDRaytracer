@@ -1,118 +1,0 @@
-
-$SDRaytracer#hitObject(LRay;)LIPoint;
-__unknown_file ("8*š
-1?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÍ
- Í("T
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÍ Í(
-
-isectIPoint*®
-2?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÂ Â(`
-^
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÂ Â(
-tTriangle"__id*
-""*
-6
-1*¯
-3?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÇ Ç(r
-p
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÈ È( 
-%6Vec3D"__id**
-
-ipIPoint"
-ipointu
-s
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÈ
- È( 
-
-isectIPoint"
-ipoint"__id*
-
-%6Vec3Dy
-w
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÊ
- Ê(
-
-isectIPoint"
-
-triangle"__id*
-
-tTriangle*
-2*¾
-4?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÅ Å(p
-n
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÅ Å(!
-%5float"__id**
-
-ipIPoint"
-dist*
-2
-3*Ø
-6?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÃ Ã(«¨
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÃ Ã(#
-%3IPoint"!Ray#intersect(LTriangle;)LIPoint;*
-
-
-rayRay*
-
-tTriangle2intersect(LTriangle;)g
-e
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÃ Ã($
-ipIPoint"__id*
-
-%3IPointp
-n
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÄ Ä(
-%4float"__id**
-
-ipIPoint"
-dist*	
-2
-3
-4*Ê
-7?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÂ Â(
-}
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÂ Â(
-%2java.util.List"__id**
-SDRaytracer"
-	triangles*
-2*©
-8?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÀ À(YW
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÀ À(
-%0IPoint"IPoint–
-“
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÀ À((
-%1""IPoint#<init>(LTriangle;LVec3D;F)V*
-
-%0IPoint*
-""*
-""*
-""j
-h
-?
-3C:\Users\sim-t\git\SDRaytracer\src\SDRaytracer.javaÀ À()
-isectIPoint"__id*
-
-%0IPoint*
-7:
-
-rayRayB
-SDRaytracer

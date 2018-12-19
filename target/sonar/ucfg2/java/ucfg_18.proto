@@ -1,67 +1,0 @@
-
-RGB#addColors(LRGB;LRGB;F)LRGB;
-__unknown_file ("1*¡
-15
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (b
-`
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (
-%0float"__id**
-	
-c1RGB"
-redb
-`
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java ($
-%1float"__id**
-	
-c2RGB"
-redd
-b
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (
-%2float"__id**
-	
-c1RGB"
-greend
-b
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (
-%3float"__id**
-	
-c2RGB"
-greenc
-a
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (
-%4float"__id**
-	
-c1RGB"
-bluec
-a
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (
-%5float"__id**
-	
-c2RGB"
-blueIG
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (	
-%6RGB"RGBv
-t
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java ($
-%7"RGB#<init>(FFF)V*
-	
-%6RGB*
-""*
-""*
-"""D
-5
-+C:\Users\sim-t\git\SDRaytracer\src\RGB.java (%
-	
-%6RGB:	
-c1RGB:	
-c2RGB:
-""B
-RGB
