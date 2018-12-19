@@ -48,12 +48,12 @@ class RGB {
         }
         Ray reflection=new Ray();
         //R = 2N(N*L)-L)    L ausgehender Vektor
-        Vec3D LVec=ray.dir.mult(-1);
+        Vec3D lVec=ray.dir.mult(-1);
         reflection.start=point;
-        reflection.dir=triangle.normal.mult(2*triangle.normal.dot(LVec)).minus(LVec);
+        reflection.dir=triangle.normal.mult(2*triangle.normal.dot(lVec)).minus(lVec);
         reflection.dir.normalize();
         RGB rcolor=raytracer.rayTrace(reflection, rec+1);
-        float ratio =  (float) Math.pow(Math.max(0,reflection.dir.dot(LVec)), triangle.shininess);
+        float ratio =  (float) Math.pow(Math.max(0,reflection.dir.dot(lVec)), triangle.shininess);
         color = addColors(color,rcolor,ratio);
         return(color);
     }

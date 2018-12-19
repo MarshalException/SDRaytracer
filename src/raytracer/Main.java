@@ -2,7 +2,7 @@ package raytracer;
 
 public class Main {
 //
-    public static void  main(String argv[])
+    public static void  main(String[] argv)
     {
         long start = System.currentTimeMillis();
         SDRaytracer sdr=new SDRaytracer();

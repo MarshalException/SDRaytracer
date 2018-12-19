@@ -1,32 +1,32 @@
 
-%raytracer.RGB#color()Ljava/awt/Color;
+(raytracer.RGB#rgbcolor()Ljava/awt/Color;
 __unknown_file ("3*Å
 1?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ("r
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ("r
 p
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ("
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ("
 %2float"__id**
 raytracer.RGB"
 redt
 r
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java/ (4
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java/ (4
 %3float"__id**
 raytracer.RGB"
 greens
 q
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.javaB (F
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.javaB (F
 %4float"__id**
 raytracer.RGB"
 blueig
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
 %5java.awt.Color"java.awt.Coloró
 î
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (L
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (L
 %6"java.awt.Color#<init>(III)V*
 
 %5java.awt.Color*
@@ -35,40 +35,40 @@ q
 ""}
 {
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (L
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (L
 raytracer.RGB"
 color"__id*
 
 %5java.awt.Color}
 {
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
 %7java.awt.Color"__id**
 raytracer.RGB"
 color"Y
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (
 
 %7java.awt.Color*û
 2?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (#}
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ($}
 {
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (#
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ($
 %1java.awt.Color"__id**
 raytracer.RGB"
 color"Y
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java ($
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java (%
 
 %1java.awt.Color*À
 3?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java
- (}
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java
+ (}
 {
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java
- (
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\RGB.java
+ (
 %0java.awt.Color"__id**
 raytracer.RGB"
 color*

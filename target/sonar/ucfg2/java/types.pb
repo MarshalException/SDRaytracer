@@ -1071,12 +1071,13 @@ toString()+java.awt.Color#toString()Ljava/lang/String;(
 brighter())java.awt.Color#brighter()Ljava/awt/Color;(
 
 getGreen()java.awt.Color#getGreen()IG
-getRGBColorComponents([F)*java.awt.Color#getRGBColorComponents([F)[Fá
+getRGBColorComponents([F)*java.awt.Color#getRGBColorComponents([F)[Fç
 raytracer.RGBjava.lang.Objectu
 *addColors(Lraytracer/RGB;Lraytracer/RGB;F)Graytracer.RGB#addColors(Lraytracer/RGB;Lraytracer/RGB;F)Lraytracer/RGB;#
 <init>()raytracer.RGB#<init>()V)
-<init>(FFF)raytracer.RGB#<init>(FFF)V0
-color()%raytracer.RGB#color()Ljava/awt/Color;Í
+<init>(FFF)raytracer.RGB#<init>(FFF)V6
+
+rgbcolor()(raytracer.RGB#rgbcolor()Ljava/awt/Color;Í
 dlighting(Lraytracer/Ray;Lraytracer/IPoint;ILraytracer/RGB;[Lraytracer/Vec3D;Lraytracer/SDRaytracer;)Åraytracer.RGB#lighting(Lraytracer/Ray;Lraytracer/IPoint;ILraytracer/RGB;[Lraytracer/Vec3D;Lraytracer/SDRaytracer;)Lraytracer/RGB;Ø
 raytracer.Rayjava.lang.Object)
 normalize()raytracer.Ray#normalize()Vb

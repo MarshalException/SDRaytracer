@@ -8,7 +8,7 @@ w
 5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ("
 %0float"__id*!*
 raytracer.IPoint"	
-epsilonÑ
+EPSILONÑ
 Å
 ?
 5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
@@ -153,11 +153,11 @@ x
 
 %33raytracer.Vec3Dnl
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
 %34raytracer.IPoint"raytracer.IPoint‰
 ·
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
 %35"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
 
 %34raytracer.IPoint*
@@ -167,7 +167,7 @@ x
 ipraytracer.Vec3D*
 """\
 ?
-5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (%
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (%
 
 %34raytracer.IPoint*’
 2?
