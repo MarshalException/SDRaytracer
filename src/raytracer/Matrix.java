@@ -33,7 +33,6 @@ class Matrix {
             val[1][0]*v.x+val[1][1]*v.y+val[1][2]*v.z+val[1][3]*v.w,
             val[2][0]*v.x+val[2][1]*v.y+val[2][2]*v.z+val[2][3]*v.w,
             val[3][0]*v.x+val[3][1]*v.y+val[3][2]*v.z+val[3][3]*v.w );
-        //return new src.raytracer.Vec3D(temp.x/temp.w,temp.y/temp.w,temp.z/temp.w,1);
         temp.x=temp.x/temp.w; temp.y=temp.y/temp.w; temp.z=temp.z/temp.w; temp.w=1;
         return temp;
     }
@@ -83,8 +82,8 @@ class Matrix {
     { t.p1=this.mult(t.p1);
         t.p2=this.mult(t.p2);
         t.p3=this.mult(t.p3);
-        Vec3D e1=t.p2.minus(t.p1),
-                e2=t.p3.minus(t.p1);
+        Vec3D e1=t.p2.minus(t.p1);
+        Vec3D e2=t.p3.minus(t.p1);
         t.normal=e1.cross(e2);
         t.normal.normalize();
     }

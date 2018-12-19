@@ -1,0 +1,101 @@
+
+9raytracer.Vec3D#cross(Lraytracer/Vec3D;)Lraytracer/Vec3D;
+__unknown_file ("1*Ñ
+1A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(t
+r
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(
+%0float"__id**
+raytracer.Vec3D"
+yw
+u
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(
+%1float"__id**
+
+vraytracer.Vec3D"
+zt
+r
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"  "(!
+%2float"__id**
+raytracer.Vec3D"
+zw
+u
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"" "(%
+%3float"__id**
+
+vraytracer.Vec3D"
+yt
+r
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"' "((
+%4float"__id**
+raytracer.Vec3D"
+zw
+u
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java") "(,
+%5float"__id**
+
+vraytracer.Vec3D"
+xt
+r
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"- "(.
+%6float"__id**
+raytracer.Vec3D"
+xw
+u
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"/ "(2
+%7float"__id**
+
+vraytracer.Vec3D"
+zt
+r
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"4 "(5
+%8float"__id**
+raytracer.Vec3D"
+xw
+u
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"6 "(9
+%9float"__id**
+
+vraytracer.Vec3D"
+yu
+s
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java": "(;
+%10float"__id**
+raytracer.Vec3D"
+yx
+v
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java"< "(?
+%11float"__id**
+
+vraytracer.Vec3D"
+xnl
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(
+%12raytracer.Vec3D"raytracer.Vec3D
+š
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(@
+%13"raytracer.Vec3D#<init>(FFF)V*
+
+%12raytracer.Vec3D*
+""*
+""*
+"""]
+A
+7C:\Users\sim-t\git\SDRaytracer\src\raytracer\Vec3D.java" "(A
+
+%12raytracer.Vec3D:
+vraytracer.Vec3DB
+raytracer.Vec3D

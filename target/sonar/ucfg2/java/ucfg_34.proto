@@ -1,0 +1,118 @@
+
+Braytracer.SDRaytracer#hitObject(Lraytracer/Ray;)Lraytracer/IPoint;
+__unknown_file ("8*¸
+1I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÍ
+ Í("h
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÍ Í(
+
+isectraytracer.IPoint*Ì
+2I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÂ Â(t
+r
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÂ Â(
+traytracer.Triangle"__id*
+""*
+6
+1*¡
+3I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÇ Ç(•
+’
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÈ È((
+%6raytracer.Vec3D"__id*(*&
+
+ipraytracer.IPoint"
+
+ipoint_var˜
+•
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÈ
+ È(()
+
+isectraytracer.IPoint"
+
+ipoint_var"__id*
+
+%6raytracer.Vec3D˜
+•
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÊ
+ Ê('
+
+isectraytracer.IPoint"
+
+triangle"__id*
+
+traytracer.Triangle*
+2*Þ
+4I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÅ Å(…
+‚
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÅ Å(!
+%5float"__id*"* 
+
+ipraytracer.IPoint"
+dist*
+2
+3*è
+6I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÃ Ã(ûø
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÃ Ã(#
+%3raytracer.IPoint"?raytracer.Ray#intersect(Lraytracer/Triangle;)Lraytracer/IPoint;*
+
+rayraytracer.Ray*
+
+traytracer.Triangle2intersect(Lraytracer/Triangle;)†
+ƒ
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÃ Ã($
+ipraytracer.IPoint"__id*
+
+%3raytracer.IPoint…
+‚
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÄ Ä(
+%4float"__id*"* 
+
+ipraytracer.IPoint"
+dist*	
+2
+3
+4*ê
+7I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÂ Â(”
+‘
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÂ Â(
+%2java.util.List"__id*(*&
+raytracer.SDRaytracer"
+	triangles*
+2*£
+8I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÀ À(wu
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÀ À(
+%0raytracer.IPoint"raytracer.IPointÈ
+Å
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÀ À((
+%1"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%0raytracer.IPoint*
+""*
+""*
+""‰
+†
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaÀ À()
+isectraytracer.IPoint"__id*
+
+%0raytracer.IPoint*
+7:
+rayraytracer.RayB
+raytracer.SDRaytracer

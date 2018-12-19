@@ -10,7 +10,7 @@ class Ray {
 
     // see M�ller&Haines, page 305
     IPoint intersect(Triangle t)
-    { float epsilon=IPoint.epsilon;
+    { float epsilon=IPoint.EPSILON;
         Vec3D e1 = t.p2.minus(t.p1);
         Vec3D e2 = t.p3.minus(t.p1);
         Vec3D p =  dir.cross(e2);
@@ -27,7 +27,6 @@ class Ray {
         float dist=f*e2.dot(q);
         if (dist<epsilon) return new IPoint(null,null,-1);
         Vec3D ip=t.p1.mult(1-u-v).add(t.p2.mult(u)).add(t.p3.mult(v));
-        //src.raytracer.DEBUG.debug("Intersection point: "+ip.x+","+ip.y+","+ip.z);
         return new IPoint(t,ip,dist);
     }
 }

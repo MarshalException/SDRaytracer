@@ -1,0 +1,280 @@
+
+9raytracer.Matrix#mult(Lraytracer/Vec3D;)Lraytracer/Vec3D;
+__unknown_file ("1*ž)
+1B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java   (!y
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java   (!
+%0$Array"__id**
+raytracer.Matrix"
+valx
+v
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java (  (+
+%1float"__id**
+
+vraytracer.Vec3D"
+xy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java ,  (/
+%2$Array"__id**
+raytracer.Matrix"
+valx
+v
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java 6  (9
+%3float"__id**
+
+vraytracer.Vec3D"
+yy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java :  (=
+%4$Array"__id**
+raytracer.Matrix"
+valx
+v
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java D  (G
+%5float"__id**
+
+vraytracer.Vec3D"
+zy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java H  (K
+%6$Array"__id**
+raytracer.Matrix"
+valx
+v
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java R  (U
+%7float"__id**
+
+vraytracer.Vec3D"
+wy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java! !(
+%8$Array"__id**
+raytracer.Matrix"
+valx
+v
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java! !(
+%9float"__id**
+
+vraytracer.Vec3D"
+xz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java! !(
+%10$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java!$ !('
+%11float"__id**
+
+vraytracer.Vec3D"
+yz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java!( !(+
+%12$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java!2 !(5
+%13float"__id**
+
+vraytracer.Vec3D"
+zz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java!6 !(9
+%14$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java!@ !(C
+%15float"__id**
+
+vraytracer.Vec3D"
+wz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java" "(
+%16$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java" "(
+%17float"__id**
+
+vraytracer.Vec3D"
+xz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java" "(
+%18$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java"$ "('
+%19float"__id**
+
+vraytracer.Vec3D"
+yz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java"( "(+
+%20$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java"2 "(5
+%21float"__id**
+
+vraytracer.Vec3D"
+zz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java"6 "(9
+%22$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java"@ "(C
+%23float"__id**
+
+vraytracer.Vec3D"
+wz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java# #(
+%24$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java# #(
+%25float"__id**
+
+vraytracer.Vec3D"
+xz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java# #(
+%26$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java#$ #('
+%27float"__id**
+
+vraytracer.Vec3D"
+yz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java#( #(+
+%28$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java#2 #(5
+%29float"__id**
+
+vraytracer.Vec3D"
+zz
+x
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java#6 #(9
+%30$Array"__id**
+raytracer.Matrix"
+valy
+w
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java#@ #(C
+%31float"__id**
+
+vraytracer.Vec3D"
+wom
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java   (
+%32raytracer.Vec3D"raytracer.Vec3D§
+¤
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java  #(E
+%33"raytracer.Vec3D#<init>(FFFF)V*
+
+%32raytracer.Vec3D*
+""*
+""*
+""*
+""
+}
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java  #(F
+tempraytracer.Vec3D"__id*
+
+%32raytracer.Vec3D|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java% %(
+%34float"__id* *
+
+tempraytracer.Vec3D"
+x|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java% %(
+%35float"__id* *
+
+tempraytracer.Vec3D"
+w|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java%% %(+
+%36float"__id* *
+
+tempraytracer.Vec3D"
+y|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java%, %(2
+%37float"__id* *
+
+tempraytracer.Vec3D"
+w|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java%; %(A
+%38float"__id* *
+
+tempraytracer.Vec3D"
+z|
+z
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java%B %(H
+%39float"__id* *
+
+tempraytracer.Vec3D"
+w"_
+B
+8C:\Users\sim-t\git\SDRaytracer\src\raytracer\Matrix.java& &(
+
+tempraytracer.Vec3D:
+vraytracer.Vec3DB
+raytracer.Matrix

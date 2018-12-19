@@ -1,0 +1,324 @@
+
+?raytracer.Ray#intersect(Lraytracer/Triangle;)Lraytracer/IPoint;
+__unknown_file ("12*»
+12?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (y
+w
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ("
+%0float"__id*!*
+raytracer.IPoint"	
+epsilonÑ
+Å
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%1raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p2Ñ
+Å
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ("
+%2raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p1‚ﬂ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (#
+%3raytracer.Vec3D"9raytracer.Vec3D#minus(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%1raytracer.Vec3D*
+
+%2raytracer.Vec3D2minus(Lraytracer/Vec3D;)y
+w
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
+e1raytracer.Vec3D"__id*
+
+%3raytracer.Vec3DÑ
+Å
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%4raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p3Ñ
+Å
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ("
+%5raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p1‚ﬂ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (#
+%6raytracer.Vec3D"9raytracer.Vec3D#minus(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%4raytracer.Vec3D*
+
+%5raytracer.Vec3D2minus(Lraytracer/Vec3D;)y
+w
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
+e2raytracer.Vec3D"__id*
+
+%6raytracer.Vec3D|
+z
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%7raytracer.Vec3D"__id**
+raytracer.Ray"
+dir‚ﬂ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ( 
+%8raytracer.Vec3D"9raytracer.Vec3D#cross(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%7raytracer.Vec3D*
+
+e2raytracer.Vec3D2cross(Lraytracer/Vec3D;)x
+v
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (!
+praytracer.Vec3D"__id*
+
+%8raytracer.Vec3D√¿
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%9float"'raytracer.Vec3D#dot(Lraytracer/Vec3D;)F*
+
+e1raytracer.Vec3D*
+
+praytracer.Vec3D2dot(Lraytracer/Vec3D;)*
+9
+10*Ò
+1?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (Ö
+Ç
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%26raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p1±Æ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (!
+%27raytracer.Vec3D"(raytracer.Vec3D#mult(F)Lraytracer/Vec3D;*
+
+%26raytracer.Vec3D*
+""2mult(F)Ö
+Ç
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java& (*
+%28raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p2±Æ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java& (2
+%29raytracer.Vec3D"(raytracer.Vec3D#mult(F)Lraytracer/Vec3D;*
+
+%28raytracer.Vec3D*
+""2mult(F)·ﬁ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (3
+%30raytracer.Vec3D"7raytracer.Vec3D#add(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%27raytracer.Vec3D*
+
+%29raytracer.Vec3D2add(Lraytracer/Vec3D;)Ö
+Ç
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java8 (<
+%31raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p3±Æ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java8 (D
+%32raytracer.Vec3D"(raytracer.Vec3D#mult(F)Lraytracer/Vec3D;*
+
+%31raytracer.Vec3D*
+""2mult(F)·ﬁ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (E
+%33raytracer.Vec3D"7raytracer.Vec3D#add(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%30raytracer.Vec3D*
+
+%32raytracer.Vec3D2add(Lraytracer/Vec3D;)z
+x
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (F
+ipraytracer.Vec3D"__id*
+
+%33raytracer.Vec3Dnl
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%34raytracer.IPoint"raytracer.IPoint‰
+·
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
+%35"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%34raytracer.IPoint*
+
+traytracer.Triangle*
+
+ipraytracer.Vec3D*
+"""\
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (%
+
+%34raytracer.IPoint*’
+2?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java, (0nl
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java% (+
+%24raytracer.IPoint"raytracer.IPoint¿
+Ω
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java! (9
+%25"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%24raytracer.IPoint*
+""*
+""*
+"""\
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (:
+
+%24raytracer.IPoint*ì
+3?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (ƒ¡
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%23float"'raytracer.Vec3D#dot(Lraytracer/Vec3D;)F*
+
+e2raytracer.Vec3D*
+
+qraytracer.Vec3D2dot(Lraytracer/Vec3D;)*
+2
+1*’
+4?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java4 (8nl
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java- (3
+%21raytracer.IPoint"raytracer.IPoint¿
+Ω
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java) (A
+%22"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%21raytracer.IPoint*
+""*
+""*
+"""\
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java" (B
+
+%21raytracer.IPoint*Û
+6?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (‚ﬂ
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%18raytracer.Vec3D"9raytracer.Vec3D#cross(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+sraytracer.Vec3D*
+
+e1raytracer.Vec3D2cross(Lraytracer/Vec3D;)y
+w
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+qraytracer.Vec3D"__id*
+
+%18raytracer.Vec3D}
+{
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%19raytracer.Vec3D"__id**
+raytracer.Ray"
+dir≈¬
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%20float"'raytracer.Vec3D#dot(Lraytracer/Vec3D;)F*
+
+%19raytracer.Vec3D*
+
+qraytracer.Vec3D2dot(Lraytracer/Vec3D;)*
+3
+4*’
+7?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java2 (6nl
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java+ (1
+%16raytracer.IPoint"raytracer.IPoint¿
+Ω
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java' (?
+%17"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%16raytracer.IPoint*
+""*
+""*
+"""\
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java  (@
+
+%16raytracer.IPoint*˛
+9?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+}
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%12raytracer.Vec3D"__id**
+raytracer.Ray"
+startÖ
+Ç
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ("
+%13raytracer.Vec3D"__id*!*
+
+traytracer.Triangle"
+p1Â‚
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (#
+%14raytracer.Vec3D"9raytracer.Vec3D#minus(Lraytracer/Vec3D;)Lraytracer/Vec3D;*
+
+%12raytracer.Vec3D*
+
+%13raytracer.Vec3D2minus(Lraytracer/Vec3D;)y
+w
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java ($
+sraytracer.Vec3D"__id*
+
+%14raytracer.Vec3D√¿
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java (
+%15float"'raytracer.Vec3D#dot(Lraytracer/Vec3D;)F*
+
+sraytracer.Vec3D*
+
+praytracer.Vec3D2dot(Lraytracer/Vec3D;)*
+6
+7*÷
+10?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java; (?nl
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java4 (:
+%10raytracer.IPoint"raytracer.IPoint¿
+Ω
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java0 (H
+%11"@raytracer.IPoint#<init>(Lraytracer/Triangle;Lraytracer/Vec3D;F)V*
+
+%10raytracer.IPoint*
+""*
+""*
+"""\
+?
+5C:\Users\sim-t\git\SDRaytracer\src\raytracer\Ray.java) (I
+
+%10raytracer.IPoint:
+traytracer.TriangleB
+raytracer.Ray

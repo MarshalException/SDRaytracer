@@ -94,7 +94,7 @@ SDRaytracer()
               if (image==null) return;
               for(int i=0;i<width;i++)
                for(int j=0;j<height;j++)
-                { g.setColor(image[i][j].color());
+                { g.setColor(image[i][j].rgbcolor());
                   // zeichne einzelnen Pixel
                   g.drawLine(i,height-j,i,height-j);
                 }
@@ -179,7 +179,7 @@ void renderImage(){
 RGB rayTrace(Ray ray, int rec) {
    if (rec>maxRec) return black;
    IPoint ip = hitObject(ray);  // (ray, p, n, triangle);
-   if (ip.dist>IPoint.epsilon) {
+   if (ip.dist>IPoint.EPSILON) {
        //Refactoring
        return rgb.lighting(ray, ip, rec, ambient_color, lights,this);
    }
@@ -197,7 +197,7 @@ IPoint hitObject(Ray ray) {
         if ((idist==-1)||(ip.dist<idist))
          { // save that intersection
           idist=ip.dist;
-          isect.ipoint_var=ip.ipoint_var;
+          isect.ipointVar=ip.ipointVar;
           isect.dist=ip.dist;
           isect.triangle=t;
          }

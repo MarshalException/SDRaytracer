@@ -1,0 +1,109 @@
+
+?raytracer.SDRaytracer#rayTrace(Lraytracer/Ray;I)Lraytracer/RGB;
+__unknown_file ("5*ƒ
+1I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaª ª(è
+å
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaª ª(
+%9raytracer.RGB"__id*$*"
+raytracer.SDRaytracer"
+black"b
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaª ª(
+
+%9raytracer.RGB*À
+2I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏ ∏(ç
+ä
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏ ∏(
+%5raytracer.RGB"__id*"* 
+raytracer.SDRaytracer"
+rgbó
+î
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏) ∏(6
+%6raytracer.RGB"__id*,**
+raytracer.SDRaytracer"
+ambient_colorâ
+Ü
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏8 ∏(>
+%7$Array"__id*%*#
+raytracer.SDRaytracer"
+lights‡›
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏ ∏(D
+%8raytracer.RGB"Åraytracer.RGB#lighting(Lraytracer/Ray;Lraytracer/IPoint;ILraytracer/RGB;[Lraytracer/Vec3D;Lraytracer/SDRaytracer;)Lraytracer/RGB;*
+
+%5raytracer.RGB*
+
+rayraytracer.Ray*
+
+ipraytracer.IPoint*
+""*
+
+%6raytracer.RGB*
+
+%7$Array*
+raytracer.SDRaytracer2dlighting(Lraytracer/Ray;Lraytracer/IPoint;ILraytracer/RGB;[Lraytracer/Vec3D;Lraytracer/SDRaytracer;)"b
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∏ ∏(E
+
+%8raytracer.RGB*Í
+3I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaµ µ(˘ˆ
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaµ µ(
+%2raytracer.IPoint"Braytracer.SDRaytracer#hitObject(Lraytracer/Ray;)Lraytracer/IPoint;*
+raytracer.SDRaytracer*
+
+rayraytracer.Ray2hitObject(Lraytracer/Ray;)Ü
+É
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.javaµ µ(
+ipraytracer.IPoint"__id*
+
+%2raytracer.IPointÖ
+Ç
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∂ ∂(
+%3float"__id*"* 
+
+ipraytracer.IPoint"
+distÑ
+Å
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java∂ ∂(
+%4float"__id*!*
+raytracer.IPoint"	
+epsilon*
+2
+1*ƒ
+4I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java¥ ¥(è
+å
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java¥ ¥(
+%1raytracer.RGB"__id*$*"
+raytracer.SDRaytracer"
+black"b
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java¥ ¥( 
+
+%1raytracer.RGB*ﬂ
+5I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java¥ ¥(
+Ü
+É
+I
+=C:\Users\sim-t\git\SDRaytracer\src\raytracer\SDRaytracer.java¥ ¥(	
+%0int"__id*%*#
+raytracer.SDRaytracer"
+maxRec*
+3
+4:
+rayraytracer.Ray:
+""B
+raytracer.SDRaytracer
