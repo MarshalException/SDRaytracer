@@ -1,0 +1,782 @@
+
++Cube#addCube(Ljava/util/List;IIIIIILRGB;F)V
+__unknown_file ("1*ªh
+16
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (NL
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%0Vec3D"Vec3D{
+y
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (3
+%1"Vec3D#<init>(FFF)V*
+
+%0Vec3D*
+""*
+""*
+""NL
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java9 (>
+%2Vec3D"Vec3D{
+y
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java5 (G
+%3"Vec3D#<init>(FFF)V*
+
+%2Vec3D*
+""*
+""*
+""NL
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (R
+%4Vec3D"Vec3D{
+y
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaI ([
+%5"Vec3D#<init>(FFF)V*
+
+%4Vec3D*
+""*
+""*
+""TR
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%6Triangle"TriangleÃ
+À
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (c
+%7"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%6Triangle*
+
+%0Vec3D*
+
+%2Vec3D*
+
+%4Vec3D*
+
+
+cRGB*
+""½º
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (d
+%8boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%6Triangle2add(Ljava/lang/Object;)NL
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%9Vec3D"Vec3D|
+z
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%10"Vec3D#<init>(FFF)V*
+
+%9Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%11Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (K
+%12"Vec3D#<init>(FFF)V*
+
+%11Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaQ (V
+%13Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (_
+%14"Vec3D#<init>(FFF)V*
+
+%13Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%15Triangle"TriangleÇ
+Ä
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (g
+%16"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%15Triangle*
+
+%9Vec3D*
+
+%11Vec3D*
+
+%13Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (h
+%17boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%15Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+' 
+(,
+%18Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+# 
+(5
+%19"Vec3D#<init>(FFF)V*
+
+%18Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+; 
+(@
+%20Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+7 
+(G
+%21"Vec3D#<init>(FFF)V*
+
+%20Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+M 
+(R
+%22Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+I 
+([
+%23"Vec3D#<init>(FFF)V*
+
+%22Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+ 
+("
+%24Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+ 
+(c
+%25"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%24Triangle*
+
+%18Vec3D*
+
+%20Vec3D*
+
+%22Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java
+ 
+(d
+%26boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%24Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%27Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%28"Vec3D#<init>(FFF)V*
+
+%27Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%29Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (K
+%30"Vec3D#<init>(FFF)V*
+
+%29Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaQ (V
+%31Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (_
+%32"Vec3D#<init>(FFF)V*
+
+%31Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%33Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (g
+%34"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%33Triangle*
+
+%27Vec3D*
+
+%29Vec3D*
+
+%31Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (h
+%35boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%33Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%36Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%37"Vec3D#<init>(FFF)V*
+
+%36Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%38Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (K
+%39"Vec3D#<init>(FFF)V*
+
+%38Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaQ (V
+%40Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (a
+%41"Vec3D#<init>(FFF)V*
+
+%40Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%42Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (i
+%43"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%42Triangle*
+
+%36Vec3D*
+
+%38Vec3D*
+
+%40Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (j
+%44boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%42Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%45Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (7
+%46"Vec3D#<init>(FFF)V*
+
+%45Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java= (B
+%47Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java9 (M
+%48"Vec3D#<init>(FFF)V*
+
+%47Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaS (X
+%49Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaO (e
+%50"Vec3D#<init>(FFF)V*
+
+%49Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%51Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (m
+%52"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%51Triangle*
+
+%45Vec3D*
+
+%47Vec3D*
+
+%49Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (n
+%53boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%51Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%54Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (7
+%55"Vec3D#<init>(FFF)V*
+
+%54Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java= (B
+%56Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java9 (O
+%57"Vec3D#<init>(FFF)V*
+
+%56Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaU (Z
+%58Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaQ (c
+%59"Vec3D#<init>(FFF)V*
+
+%58Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%60Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (k
+%61"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%60Triangle*
+
+%54Vec3D*
+
+%56Vec3D*
+
+%58Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (l
+%62boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%60Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%63Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%64"Vec3D#<init>(FFF)V*
+
+%63Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%65Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (M
+%66"Vec3D#<init>(FFF)V*
+
+%65Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaS (X
+%67Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaO (c
+%68"Vec3D#<init>(FFF)V*
+
+%67Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%69Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (k
+%70"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%69Triangle*
+
+%63Vec3D*
+
+%65Vec3D*
+
+%67Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (l
+%71boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%69Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%72Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%73"Vec3D#<init>(FFF)V*
+
+%72Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%74Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (G
+%75"Vec3D#<init>(FFF)V*
+
+%74Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (R
+%76Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaI ([
+%77"Vec3D#<init>(FFF)V*
+
+%76Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%78Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (c
+%79"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%78Triangle*
+
+%72Vec3D*
+
+%74Vec3D*
+
+%76Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (d
+%80boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%78Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%81Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%82"Vec3D#<init>(FFF)V*
+
+%81Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java; (@
+%83Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java7 (K
+%84"Vec3D#<init>(FFF)V*
+
+%83Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaQ (V
+%85Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaM (_
+%86"Vec3D#<init>(FFF)V*
+
+%85Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%87Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (g
+%88"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%87Triangle*
+
+%81Vec3D*
+
+%83Vec3D*
+
+%85Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (h
+%89boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%87Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%90Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (5
+%91"Vec3D#<init>(FFF)V*
+
+%90Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java< (A
+%92Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java8 (L
+%93"Vec3D#<init>(FFF)V*
+
+%92Vec3D*
+""*
+""*
+""OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaR (W
+%94Vec3D"Vec3D}
+{
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaN (b
+%95"Vec3D#<init>(FFF)V*
+
+%94Vec3D*
+""*
+""*
+""US
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%96Triangle"TriangleÈ
+Å
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (j
+%97"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%96Triangle*
+
+%90Vec3D*
+
+%92Vec3D*
+
+%94Vec3D*
+
+
+cRGB*
+""¿¼
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (k
+%98boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%96Triangle2add(Ljava/lang/Object;)OM
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java' (,
+%99Vec3D"Vec3D~
+|
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java# (7
+%100"Vec3D#<init>(FFF)V*
+
+%99Vec3D*
+""*
+""*
+""PN
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java= (B
+%101Vec3D"Vec3D
+}
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java9 (M
+%102"Vec3D#<init>(FFF)V*
+
+%101Vec3D*
+""*
+""*
+""PN
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaS (X
+%103Vec3D"Vec3D
+}
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.javaO (e
+%104"Vec3D#<init>(FFF)V*
+
+%103Vec3D*
+""*
+""*
+""VT
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java ("
+%105Triangle"TriangleÌ
+É
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (m
+%106"-Triangle#<init>(LVec3D;LVec3D;LVec3D;LRGB;F)V*
+
+%105Triangle*
+
+%99Vec3D*
+
+%101Vec3D*
+
+%103Vec3D*
+
+
+cRGB*
+""Á¾
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (n
+%107boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+	trianglesjava.util.List*
+
+%105Triangle2add(Ljava/lang/Object;)*
+0*T
+0 "M
+6
+,C:\Users\sim-t\git\SDRaytracer\src\Cube.java (
+implicit return:
+	trianglesjava.util.List:
+"":
+"":
+"":
+"":
+"":
+"":
+cRGB:
+""B"
+Cube

@@ -1,0 +1,53 @@
+
+Vec3D#dot(LVec3D;)F
+__unknown_file ("1*Ô
+17
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java  (!`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java  (!
+%0float"__id**
+Vec3D"
+xc
+a
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java" (%
+%1float"__id**
+
+
+vVec3D"
+x`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java& ('
+%2float"__id**
+Vec3D"
+yc
+a
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java( (+
+%3float"__id**
+
+
+vVec3D"
+y`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java, (-
+%4float"__id**
+Vec3D"
+zc
+a
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java. (1
+%5float"__id**
+
+
+vVec3D"
+z"A
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (2
+"":
+
+vVec3DB	
+Vec3D

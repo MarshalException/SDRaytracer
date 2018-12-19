@@ -1,0 +1,333 @@
+
+!Ray#intersect(LTriangle;)LIPoint;
+__unknown_file ("12*Ü
+125
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (e
+c
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ("
+%0float"__id**
+IPoint"	
+epsilone
+c
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%1Vec3D"__id**
+
+tTriangle"
+p2e
+c
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ("
+%2Vec3D"__id**
+
+tTriangle"
+p1íè
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (#
+%3Vec3D"Vec3D#minus(LVec3D;)LVec3D;*
+
+%1Vec3D*
+
+%2Vec3D2minus(LVec3D;)[
+Y
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ($
+e1Vec3D"__id*
+
+%3Vec3De
+c
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%4Vec3D"__id**
+
+tTriangle"
+p3e
+c
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ("
+%5Vec3D"__id**
+
+tTriangle"
+p1íè
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (#
+%6Vec3D"Vec3D#minus(LVec3D;)LVec3D;*
+
+%4Vec3D*
+
+%5Vec3D2minus(LVec3D;)[
+Y
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ($
+e2Vec3D"__id*
+
+%6Vec3D^
+\
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%7Vec3D"__id**
+Ray"
+diríè
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ( 
+%8Vec3D"Vec3D#cross(LVec3D;)LVec3D;*
+
+%7Vec3D*
+
+e2Vec3D2cross(LVec3D;)Z
+X
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (!
+
+pVec3D"__id*
+
+%8Vec3DáÑ
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%9float"Vec3D#dot(LVec3D;)F*
+
+e1Vec3D*
+
+
+pVec3D2dot(LVec3D;)*
+9
+10*µ
+15
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (f
+d
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%26Vec3D"__id**
+
+tTriangle"
+p1~|
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (!
+%27Vec3D"Vec3D#mult(F)LVec3D;*
+
+%26Vec3D*
+""2mult(F)f
+d
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java& (*
+%28Vec3D"__id**
+
+tTriangle"
+p2~|
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java& (2
+%29Vec3D"Vec3D#mult(F)LVec3D;*
+
+%28Vec3D*
+""2mult(F)ëé
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (3
+%30Vec3D"Vec3D#add(LVec3D;)LVec3D;*
+
+%27Vec3D*
+
+%29Vec3D2add(LVec3D;)f
+d
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java8 (<
+%31Vec3D"__id**
+
+tTriangle"
+p3~|
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java8 (D
+%32Vec3D"Vec3D#mult(F)LVec3D;*
+
+%31Vec3D*
+""2mult(F)ëé
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (E
+%33Vec3D"Vec3D#add(LVec3D;)LVec3D;*
+
+%30Vec3D*
+
+%32Vec3D2add(LVec3D;)\
+Z
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (F
+ipVec3D"__id*
+
+%33Vec3DPN
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%34IPoint"IPointû
+õ
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ($
+%35""IPoint#<init>(LTriangle;LVec3D;F)V*
+
+%34IPoint*
+
+tTriangle*
+
+ipVec3D*
+"""H
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (%
+
+%34IPoint*Á
+25
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java, (0PN
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java% (+
+%24IPoint"IPointé
+ã
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java! (9
+%25""IPoint#<init>(LTriangle;LVec3D;F)V*
+
+%24IPoint*
+""*
+""*
+"""H
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (:
+
+%24IPoint*Õ
+35
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (àÖ
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%23float"Vec3D#dot(LVec3D;)F*
+
+e2Vec3D*
+
+
+qVec3D2dot(LVec3D;)*
+2
+1*Á
+45
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java4 (8PN
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java- (3
+%21IPoint"IPointé
+ã
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java) (A
+%22""IPoint#<init>(LTriangle;LVec3D;F)V*
+
+%21IPoint*
+""*
+""*
+"""H
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java" (B
+
+%21IPoint*°
+65
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (íè
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%18Vec3D"Vec3D#cross(LVec3D;)LVec3D;*
+
+
+sVec3D*
+
+e1Vec3D2cross(LVec3D;)[
+Y
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+
+qVec3D"__id*
+
+%18Vec3D_
+]
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%19Vec3D"__id**
+Ray"
+dirâÜ
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%20float"Vec3D#dot(LVec3D;)F*
+
+%19Vec3D*
+
+
+qVec3D2dot(LVec3D;)*
+3
+4*Á
+75
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java2 (6PN
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java+ (1
+%16IPoint"IPointé
+ã
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java' (?
+%17""IPoint#<init>(LTriangle;LVec3D;F)V*
+
+%16IPoint*
+""*
+""*
+"""H
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java  (@
+
+%16IPoint*å
+95
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (a
+_
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%12Vec3D"__id**
+Ray"
+startf
+d
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ("
+%13Vec3D"__id**
+
+tTriangle"
+p1ïí
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (#
+%14Vec3D"Vec3D#minus(LVec3D;)LVec3D;*
+
+%12Vec3D*
+
+%13Vec3D2minus(LVec3D;)[
+Y
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java ($
+
+sVec3D"__id*
+
+%14Vec3DáÑ
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java (
+%15float"Vec3D#dot(LVec3D;)F*
+
+
+sVec3D*
+
+
+pVec3D2dot(LVec3D;)*
+6
+7*Ë
+105
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java; (?PN
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java4 (:
+%10IPoint"IPointé
+ã
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java0 (H
+%11""IPoint#<init>(LTriangle;LVec3D;F)V*
+
+%10IPoint*
+""*
+""*
+"""H
+5
++C:\Users\sim-t\git\SDRaytracer\src\Ray.java) (I
+
+%10IPoint:
+tTriangleB
+Ray

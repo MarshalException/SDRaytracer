@@ -1,0 +1,41 @@
+
+Vec3D#mult(F)LVec3D;
+__unknown_file ("1*û
+17
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
+%0float"__id**
+Vec3D"
+x`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
+%1float"__id**
+Vec3D"
+y`
+^
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java# ($
+%2float"__id**
+Vec3D"
+zOM
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (
+%3Vec3D"Vec3D|
+z
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (%
+%4"Vec3D#<init>(FFF)V*
+
+%3Vec3D*
+""*
+""*
+"""H
+7
+-C:\Users\sim-t\git\SDRaytracer\src\Vec3D.java (&
+
+%3Vec3D:
+""B	
+Vec3D
